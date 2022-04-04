@@ -38,7 +38,7 @@ const Blogs = () => {
                     <Card>
                         <Card.Header>Question 3</Card.Header>
                         <Card.Body>
-                            <Card.Title>What is Context API?</Card.Title>
+                            <Card.Title>Difference between Inline, Block and Inline-block elements :</Card.Title>
                             <Card.Text>
                                 <p>Inline elements: Inline elements don't need a new line to start and it don't take the space of the whole line all it needs is just the width it requires. The width or height can't be set.</p>
                                 <p>Block elements: Block elements need a new line to start and it takes the full width of this line. You can set the height and width value.</p>
