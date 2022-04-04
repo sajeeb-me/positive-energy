@@ -1,0 +1,56 @@
+.image-container {
+    width: 350px;
+    border-radius: 8px;
+}
+
+.image-container img {
+    border-radius: 8px;
+}
+
+.header-info h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #36454f;
+}
+
+.header-info p {
+    color: #36454f;
+    opacity: 80%;
+}
+
+span {
+    color: #1E7347;
+}
+
+@media screen and (max-width: 767px) {
+    .header-image {
+        order: 2;
+    }
+
+    .image-container {
+        width: 90%;
+    }
+
+    .header-text {
+        order: 1;
+    }
+
+    .header-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .header-info h1 {
+        font-size: 30px;
+        font-weight: 700;
+        color: #36454f;
+        text-align: center;
+    }
+
+    .header-info p {
+        text-align: center;
+        width: 80%;
+    }
+}

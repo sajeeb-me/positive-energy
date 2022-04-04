@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Alex Zendra",
+        "profession": "Businessman",
+        "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "star": 5,
+        "review": "Amazing drink. I always prefer to drink this Positive Energy drink. It helps me to get rid from laziness and make me fit again."
+    },
+    {
+        "id": 2,
+        "name": "Vaidehi Sharma",
+        "profession": "Designer",
+        "image": "https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "star": 4,
+        "review": "Best way to drink it - brew a batch of black tea with honey. Every time you open a can, pour a little bit of the tea and then add the cola to the glass."
+    },
+    {
+        "id": 3,
+        "name": "Abhimanyu Mukherji",
+        "profession": "Teacher",
+        "image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "star": 4.5,
+        "review": "The product is good, almost similar taste to coke and healthier than it too. No aspartame and artificial sweeteners, hence not addictive or harmful to health. Good product, would recommend to try at least once."
+    },
+    {
+        "id": 4,
+        "name": "Vaibhav Suranaa",
+        "profession": "Driver",
+        "image": "https://images.unsplash.com/photo-1499887142886-791eca5918cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "star": 3.5,
+        "review": "Excellent packaging excellent taste. Very mild sugar like taste, Very bubbly, Aroma like 90s coca-cola, No harmful substances"
+    },
+    {
+        "id": 5,
+        "name": "Ramanuj Dutta",
+        "profession": "Manager",
+        "image": "https://images.unsplash.com/photo-1584999734482-0361aecad844?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "star": 4.5,
+        "review": "Love the taste and hopefully it's less harmful than the diet Coke or Coke zero! Kudos to an awesome product!"
+    },
+    {
+        "id": 6,
+        "name": "Sathvik Zendra",
+        "profession": "Student",
+        "image": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "star": 4,
+        "review": "Love the taste and composition! Excellent substitute to coke and Pepsi. Word of caution.. be careful while opening. Contains a lot of fizz, so likely to spill over. Ordered a crate, but some cans were leaking .. made quite a mess."
+    }
+]
