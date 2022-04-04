@@ -4,7 +4,7 @@ import CustomLink from '../CustomLink/CustomLink';
 
 const Header = () => {
     return (
-        <nav className='py-1 position-sticky top-0 bg-white'>
+        <nav className='py-1'>
             <Navbar bg="light" expand="lg">
                 <Container>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
