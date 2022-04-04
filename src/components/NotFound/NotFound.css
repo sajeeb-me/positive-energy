@@ -1,0 +1,9 @@
+.not-found-img img {
+    width: 40vw;
+}
+
+@media screen and (max-width: 767px) {
+    .not-found-img img {
+        width: 100vw;
+    }
+}
